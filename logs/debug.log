@@ -1,0 +1,114 @@
+2024-06-03 09:21:22 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Starting ApiCrud2Application using Java 17.0.9 with PID 22752 (E:\Spring Boot\AOP Springboot\target\classes started by SPSOFT in E:\Spring Boot\AOP Springboot)
+2024-06-03 09:21:22 [main] DEBUG com.aop.demo.ApiCrud2Application -
+				Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-06-03 09:21:22 [main] INFO  com.aop.demo.ApiCrud2Application -
+				No active profile set, falling back to 1 default profile: "default"
+2024-06-03 09:21:26 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Started ApiCrud2Application in 4.597 seconds (process running for 5.48)
+2024-06-03 09:27:03 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				Before method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:27:03 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				Request: [1]
+2024-06-03 09:27:03 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				After method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:27:03 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				Response: <200 OK OK,Student(id=1, name=student1, email=student1@gmail.com, age=22),[]>
+2024-06-03 09:27:33 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Starting ApiCrud2Application using Java 17.0.9 with PID 9224 (E:\Spring Boot\AOP Springboot\target\classes started by SPSOFT in E:\Spring Boot\AOP Springboot)
+2024-06-03 09:27:33 [main] DEBUG com.aop.demo.ApiCrud2Application -
+				Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-06-03 09:27:33 [main] INFO  com.aop.demo.ApiCrud2Application -
+				No active profile set, falling back to 1 default profile: "default"
+2024-06-03 09:27:38 [http-nio-8082-exec-3] INFO  com.aop.demo.aspect.LoggingAspect -
+				Before method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:27:38 [http-nio-8082-exec-3] INFO  com.aop.demo.aspect.LoggingAspect -
+				Request: [1]
+2024-06-03 09:27:38 [http-nio-8082-exec-3] INFO  com.aop.demo.aspect.LoggingAspect -
+				After method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:27:38 [http-nio-8082-exec-3] INFO  com.aop.demo.aspect.LoggingAspect -
+				Response: <200 OK OK,Student(id=1, name=student1, email=student1@gmail.com, age=22),[]>
+2024-06-03 09:28:41 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Starting ApiCrud2Application using Java 17.0.9 with PID 18276 (E:\Spring Boot\AOP Springboot\target\classes started by SPSOFT in E:\Spring Boot\AOP Springboot)
+2024-06-03 09:28:41 [main] DEBUG com.aop.demo.ApiCrud2Application -
+				Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-06-03 09:28:41 [main] INFO  com.aop.demo.ApiCrud2Application -
+				No active profile set, falling back to 1 default profile: "default"
+2024-06-03 09:28:44 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Started ApiCrud2Application in 3.81 seconds (process running for 4.579)
+2024-06-03 09:28:47 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				Before method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:28:47 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				Request: [1]
+2024-06-03 09:28:47 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				After method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:28:47 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				Response: <200 OK OK,Student(id=1, name=student1, email=student1@gmail.com, age=22),[]>
+2024-06-03 09:29:37 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Starting ApiCrud2Application using Java 17.0.9 with PID 18612 (E:\Spring Boot\AOP Springboot\target\classes started by SPSOFT in E:\Spring Boot\AOP Springboot)
+2024-06-03 09:29:37 [main] DEBUG com.aop.demo.ApiCrud2Application -
+				Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-06-03 09:29:37 [main] INFO  com.aop.demo.ApiCrud2Application -
+				No active profile set, falling back to 1 default profile: "default"
+2024-06-03 09:29:41 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Started ApiCrud2Application in 3.741 seconds (process running for 4.492)
+2024-06-03 09:30:29 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				Before method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:30:29 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				Request: [1]
+2024-06-03 09:30:29 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				After method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:30:29 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect -
+				Response: <200 OK OK,Student(id=1, name=student1, email=student1@gmail.com, age=22),[]>
+2024-06-03 09:31:40 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Starting ApiCrud2Application using Java 17.0.9 with PID 4768 (E:\Spring Boot\AOP Springboot\target\classes started by SPSOFT in E:\Spring Boot\AOP Springboot)
+2024-06-03 09:31:40 [main] DEBUG com.aop.demo.ApiCrud2Application -
+				Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-06-03 09:31:40 [main] INFO  com.aop.demo.ApiCrud2Application -
+				No active profile set, falling back to 1 default profile: "default"
+2024-06-03 09:31:43 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Started ApiCrud2Application in 3.859 seconds (process running for 4.62)
+2024-06-03 09:31:44 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect -
+				Before method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:31:44 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect -
+				Request: [1]
+2024-06-03 09:31:44 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect -
+				After method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:31:44 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect -
+				Response: <200 OK OK,Student(id=1, name=student1, email=student1@gmail.com, age=22),[]>
+2024-06-03 09:32:27 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Starting ApiCrud2Application using Java 17.0.9 with PID 13504 (E:\Spring Boot\AOP Springboot\target\classes started by SPSOFT in E:\Spring Boot\AOP Springboot)
+2024-06-03 09:32:27 [main] DEBUG com.aop.demo.ApiCrud2Application -
+				Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-06-03 09:32:27 [main] INFO  com.aop.demo.ApiCrud2Application -
+				No active profile set, falling back to 1 default profile: "default"
+2024-06-03 09:32:31 [main] INFO  com.aop.demo.ApiCrud2Application -
+				Started ApiCrud2Application in 3.79 seconds (process running for 4.537)
+2024-06-03 09:32:31 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect -
+				Before method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:32:31 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect -
+				Request: [1]
+2024-06-03 09:32:31 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect -
+				After method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:32:31 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect -
+				Response: <200 OK OK,Student(id=1, name=student1, email=student1@gmail.com, age=22),[]>
+2024-06-03 09:41:32 [main] INFO  com.aop.demo.ApiCrud2Application - Starting ApiCrud2Application using Java 17.0.9 with PID 19664 (E:\Spring Boot\AOP Springboot\target\classes started by SPSOFT in E:\Spring Boot\AOP Springboot)
+2024-06-03 09:41:32 [main] DEBUG com.aop.demo.ApiCrud2Application - Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-06-03 09:41:32 [main] INFO  com.aop.demo.ApiCrud2Application - No active profile set, falling back to 1 default profile: "default"
+2024-06-03 09:41:35 [main] INFO  com.aop.demo.ApiCrud2Application - Started ApiCrud2Application in 3.884 seconds (process running for 4.666)
+2024-06-03 09:41:35 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect - Before method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:41:35 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect - Request: [1]
+2024-06-03 09:41:35 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect - After method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 09:41:35 [http-nio-8082-exec-1] INFO  com.aop.demo.aspect.LoggingAspect - Response: <200 OK OK,Student(id=1, name=student1, email=student1@gmail.com, age=22),[]>
+2024-06-03 10:21:25 [main] INFO  com.aop.demo.ApiCrud2Application - Starting ApiCrud2Application using Java 17.0.9 with PID 10076 (E:\Spring Boot\AOP Sl4j Lobback\target\classes started by SPSOFT in E:\Spring Boot\AOP Sl4j Lobback)
+2024-06-03 10:21:25 [main] DEBUG com.aop.demo.ApiCrud2Application - Running with Spring Boot v3.2.3, Spring v6.1.4
+2024-06-03 10:21:25 [main] INFO  com.aop.demo.ApiCrud2Application - No active profile set, falling back to 1 default profile: "default"
+2024-06-03 10:21:29 [main] INFO  com.aop.demo.ApiCrud2Application - Started ApiCrud2Application in 4.16 seconds (process running for 4.936)
+2024-06-03 10:21:50 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect - Before method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 10:21:50 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect - Request: [1]
+2024-06-03 10:21:50 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect - After method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 10:21:50 [http-nio-8082-exec-2] INFO  com.aop.demo.aspect.LoggingAspect - Response: <200 OK OK,Student(id=1, name=stu6, email=null, age=0),[]>
+2024-06-03 10:21:56 [http-nio-8082-exec-3] INFO  com.aop.demo.aspect.LoggingAspect - Before method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 10:21:56 [http-nio-8082-exec-3] INFO  com.aop.demo.aspect.LoggingAspect - Request: [1]
+2024-06-03 10:21:56 [http-nio-8082-exec-3] INFO  com.aop.demo.aspect.LoggingAspect - After method invoked: ResponseEntity com.aop.demo.controller.StudentController.getEmployeeById(long)
+2024-06-03 10:21:56 [http-nio-8082-exec-3] INFO  com.aop.demo.aspect.LoggingAspect - Response: <200 OK OK,Student(id=1, name=stu6, email=null, age=0),[]>
